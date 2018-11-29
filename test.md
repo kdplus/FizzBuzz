@@ -34,8 +34,8 @@ hugafizzhoge
 入力
 
 ```txt:input.txt
-3:fizz
-5:buzz
+3:yoshida
+5:takuma
 2
 ```
 
