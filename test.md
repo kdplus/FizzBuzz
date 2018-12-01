@@ -24,6 +24,7 @@
 8:hoge
 2:huga
 24
+
 ```
 
 出力
@@ -38,6 +39,7 @@ hugafizzhoge
 3:yoshida
 5:takuma
 2
+
 ```
 
 出力
